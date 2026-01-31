@@ -37,7 +37,7 @@ Application Modes
 🔧 Installation & Setup
 If you want to run this project locally:
 # Clone the repository
-git clone https://github.com/suraj7880314386/nc2x-sota-app.git
+git clone https://github.com/pguptak/CILab-NC2X/nc2x-sota-app.git
 cd nc2x-sota-app
 
 # Install dependencies
